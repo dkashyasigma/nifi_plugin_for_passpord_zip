@@ -1,0 +1,23 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-zip_processor-processors
+
+
+From: 'an unknown organization'
+
+  - Zip4j (https://github.com/srikanth-lingala/zip4j) net.lingala.zip4j:zip4j:jar:2.11.5
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+
+  - nifi-utils (https://nifi.apache.org/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:2.3.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+
+
+
