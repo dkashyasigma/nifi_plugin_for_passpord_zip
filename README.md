@@ -36,6 +36,7 @@ Use this processor whenever you need to:
 ### ✅ 1. Build with Maven
 
 ```sh
+cd nifi-zip_processor-bundle
 mvn clean install -DskipTests
 ```
 
