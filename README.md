@@ -115,16 +115,6 @@ On restart, NiFi automatically loads the new processor.
 | Zip4j | 2.x         |
 
 
-## 🤝 Contributing
-
-Contributions are welcome!
-If you’d like to improve the processor or add features:
-
-1. Fork the repo
-2. Create a feature branch
-3. Submit a PR
-
-
 ## 🔍 Keywords
 Apache NiFi, NiFi Processor, Custom NiFi Processor, Password Protected Zip,
 Zip4j, NiFi Extensions, NiFi Plugin, Encrypted Zip, AES Encryption, Java NiFi,
